@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an AI Engineer at Distyl, where I work on applied AI systems. I graduated from UCLA with a B.S. in Mathematics and Economics.
+I'm an AI Engineer at [Distyl](https://distyl.ai/), where I work on applied AI systems. I graduated from UCLA with a B.S. in Mathematics and Economics.
 
 Previously, I co-founded QuickConnect, an AI-powered email outreach tool that was acquired, and interned at Mercor as an AI/ML Intern.
 
