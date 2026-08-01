@@ -6,4 +6,4 @@ Previously, I co-founded QuickConnect, an AI-powered email outreach tool that wa
 
 I like building agents, open-source tools, and research projects that make AI more reliable in high-stakes industries where customer trust matters most.
 
-Check out my projects below!
+Check out my projects below!      
